@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}
+  home page
+{% endblock %}
+{% block content %}
+    <style type="text/css">
+           body{
+            background-image: url("{% static 'image/venkat.jpg'%}");
+            background-repeat: no-repeat;
+            background-size: cover;
+           }
+    </style>
+    
+    <h2 class="text-success mt-3 ">Glamour Glow Beauty salon</h2>
+    <i class="text-primary  ">At Glamour Glow, we believe in enhancing your natural beauty through personalized care.</i>
+    
+
+
+{% endblock%}
