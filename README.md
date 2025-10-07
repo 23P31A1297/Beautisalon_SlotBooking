@@ -3,7 +3,7 @@
 
 A web-based beauty salon management system built with **Django** that allows users to explore services, book appointments, and manage salon-related activities online.
 
-![Home Page Preview](Screenshot%202025-09-14%20094320.png)
+<img width="1920" height="1128" alt="Image" src="https://github.com/user-attachments/assets/6bec3291-3a63-458a-88b3-fd372539e2b9" />
 
 ---
 
